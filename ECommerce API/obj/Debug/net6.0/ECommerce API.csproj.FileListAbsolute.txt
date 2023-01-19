@@ -25,3 +25,8 @@ C:\ECommerce-Backend\ECommerce API\obj\Debug\net6.0\ECommerce API.dll
 C:\ECommerce-Backend\ECommerce API\obj\Debug\net6.0\ref\ECommerce API.dll
 C:\ECommerce-Backend\ECommerce API\obj\Debug\net6.0\ECommerce API.pdb
 C:\ECommerce-Backend\ECommerce API\obj\Debug\net6.0\ECommerce API.genruntimeconfig.cache
+C:\ECommerce-Backend\ECommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ECommerce-Backend\ECommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ECommerce-Backend\ECommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ECommerce-Backend\ECommerce API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ECommerce-Backend\ECommerce API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

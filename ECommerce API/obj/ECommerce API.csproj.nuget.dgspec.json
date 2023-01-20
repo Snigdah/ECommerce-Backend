@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj": {}
+    "D:\\Code\\Team project\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj": {}
   },
   "projects": {
-    "C:\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj": {
+    "D:\\Code\\Team project\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj",
+        "projectUniqueName": "D:\\Code\\Team project\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj",
         "projectName": "ECommerce API",
-        "projectPath": "C:\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj",
+        "projectPath": "D:\\Code\\Team project\\ECommerce-Backend\\ECommerce API\\ECommerce API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\ECommerce-Backend\\ECommerce API\\obj\\",
+        "outputPath": "D:\\Code\\Team project\\ECommerce-Backend\\ECommerce API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -91,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
